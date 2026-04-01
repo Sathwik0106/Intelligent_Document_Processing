@@ -1,0 +1,12 @@
+chromadb>=0.5.0
+google-genai>=1.0.0
+langchain-chroma>=0.1.0
+langchain-core>=0.3.0
+langchain-huggingface>=0.1.0
+pandas>=2.2.0
+pypdfium2>=4.30.0
+python-dotenv>=1.0.0
+sentence-transformers>=2.2.0
+streamlit>=1.33.0
+torch>=2.0.0
+unstructured[docx,image,pdf,pptx]>=0.16.0
